@@ -1,1 +1,1 @@
-# Detection-Rules
+# Detection Rules
